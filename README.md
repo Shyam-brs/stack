@@ -23,3 +23,5 @@ To check if a stack is empty, you need to specify the stack. The function will r
 ## Is full
 
 To check if a stack is full, you need to specify the stack. The function will return true if the stack is full, and false otherwise.
+
+## you can live [here](https://shyam-brs.github.io/stack/)
